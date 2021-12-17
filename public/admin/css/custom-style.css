@@ -1,0 +1,10 @@
+input[type="text"].error,
+input[type="file"].error,
+input[type="password"].error,
+input[type="tel"].error,
+input[type="email"].error,
+select.error,
+option.error,
+textarea.error {
+    background: #fdd;
+}

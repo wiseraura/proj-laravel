@@ -1,0 +1,1 @@
+Thay đổi dữ liệu .env hoặc config -> php artisan config:Cache
